@@ -1,1 +1,2 @@
-# StudyR
+# StudyR 
+### 1일차
