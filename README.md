@@ -23,3 +23,15 @@
  - Amelia         * 결측값 처리 다중대치
  - missmap()
 - savePlot("파일명",type='png')  * 클립보드 복사 명령어
+### 3일차
+- reshape함수
+- cowsay함수 그림그리기
+- VIF 다중공산성
+ - PerformanceAnalytics 패키지
+ - histogram
+- scatterplot 산점도
+- TITANIC in R
+- boxplot 함수 
+ - mtcars
+ - tips
+ 
